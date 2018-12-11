@@ -1,0 +1,49 @@
+html {
+	background: #282F44;
+	font-family: Arial;
+}
+body {
+	width: 500px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+}
+
+.caixa-numero {
+	margin: 10px;
+}
+label {
+	font-size: 18px;
+}
+.resultado {
+	font-size: 24px;
+	background: #902923;
+	border: 3px dotted black;
+}
+
+#n1, #n2 {
+	padding: 10px;
+	border-radius: 4px;
+}
+
+.botao {
+
+	 border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+  font-size: 12px;
+  cursor: pointer;
+  border-color: black;
+  color: black;
+  border-radius: 10px;
+  
+}
+.botao:hover {
+	 background: #902923;
+  	color: white;
+}
+
